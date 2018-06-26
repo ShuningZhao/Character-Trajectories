@@ -1,2 +1,2 @@
 # character trajectories
-Please see the pdf file 'Comparing various classifers on the characters Trajectories dataset.pdf' for description.
+Please see the file [Comparing various classifers on the characters Trajectories dataset.pdf](https://github.com/ShuningZhao/Character-Trajectories/blob/master/Comparing%20various%20classifers%20on%20the%20characters%20Trajectories%20dataset.pdf) for detail.
